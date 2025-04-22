@@ -1,4 +1,4 @@
-module github.com/wangluozhe/chttp
+module github.com/guojunwengit/chttp
 
 go 1.24.0
 
