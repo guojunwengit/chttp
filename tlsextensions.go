@@ -280,7 +280,7 @@ func genMap() (extMap map[string]utls.TLSExtension) {
 				"h2",
 			},
 		},
-		"17613": &utls.ApplicationSettingsExtensionNew{
+		"17613": &utls.ApplicationSettingsExtension{
 			SupportedProtocols: []string{
 				"h2",
 			},
